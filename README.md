@@ -4,7 +4,7 @@ MSc researcher in **computer architecture** — focused on **HBM / Processing-in
 AI accelerators and thermal-aware system design.
 
 <!-- RESEARCH:START -->
-🔬 **Current research** — *"Free Lifetime: Thermal-Position-Aware Request Routing for LLM Serving Fleets"*
+🔬 **Current research** — *"The Decode Thermal Wall: A Measured Law and Software Levers for HBM Heat in LLM Serving"*
 <!-- RESEARCH:END -->
 
 🧰 **Interests** &nbsp;Computer Architecture · Processing-in-Memory · ML Systems · Thermal-aware Design · HBM
