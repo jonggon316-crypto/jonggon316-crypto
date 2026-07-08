@@ -4,7 +4,7 @@ MSc researcher in **computer architecture** — focused on **HBM / Processing-in
 AI accelerators and thermal-aware system design.
 
 <!-- RESEARCH:START -->
-🔬 **Current research** — *"Adjudicated Thermal Science: Pre-Registered Bands, Honest Misses, and a 38-Verdict Ledger for Stacked-Memory Research"*
+🔬 **Current research** — *"The Fatigue Bill of Thermal Scheduling: Burst Trains, Governor Choice, and Ratio-Registered Lifetime for Stacked Memory"*
 <!-- RESEARCH:END -->
 
 🧰 **Interests** &nbsp;Computer Architecture · Processing-in-Memory · ML Systems · Thermal-aware Design · HBM
