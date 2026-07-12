@@ -4,7 +4,7 @@ MSc researcher in **computer architecture** — focused on **HBM / Processing-in
 AI accelerators and thermal-aware system design.
 
 <!-- RESEARCH:START -->
-🔬 **Current research** — *"The Decode Thermal Wall and Everything Software Can Do About It: Law, Levers, and a Settled Map"*
+🔬 **Current research** — *"The Decode Thermal Wall: A Measured Law on Today's Silicon, Its HBM4-PIM Projection, and the Complete Lever Map"*
 <!-- RESEARCH:END -->
 
 🧰 **Interests** &nbsp;Computer Architecture · Processing-in-Memory · ML Systems · Thermal-aware Design · HBM
